@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/bill-mcdonald/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":""},"fields":{"slug":"/team/bill-mcdonald/"},"html":"<!-- ---\ntitle: \"Bill McDonald\"\ndate: 2018-11-19T10:47:58+10:00\ndraft: false\nimage: \"/images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg\"\njobtitle: \"Graphic Designer\"\nlinkedinurl: \"\"\nweight: 7\n---\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->"}},"pageContext":{"id":"fa87d945-fe95-51c3-a6b1-122ac623231b"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

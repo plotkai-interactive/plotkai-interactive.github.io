@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/susan-shelton/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":""},"fields":{"slug":"/team/susan-shelton/"},"html":"<!-- ---\ntitle: 'Susan Shelton'\ndate: 2018-12-20T13:45:06+10:00\ndraft: false\nimage: '/images/team/cristian-newman-94319-unsplash.jpg'\njobtitle: 'Developer'\nweight: 5\n---\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in. -->"}},"pageContext":{"id":"23e904ad-d7bc-526e-9f99-01c05b820381"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

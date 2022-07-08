@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-service-js",
+    "path": "/services/software/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Software Development"},"fields":{"slug":"/services/software/"},"html":"<p>We develop Open Source Software.</p>"}},"pageContext":{"id":"617118fd-be8d-579e-bef1-3c68e050feba"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

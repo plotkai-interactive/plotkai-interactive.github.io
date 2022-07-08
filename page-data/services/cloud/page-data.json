@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-service-js",
+    "path": "/services/cloud/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Cloud"},"fields":{"slug":"/services/cloud/"},"html":"<p>We build scalable and robust cloud infrasturcture.</p>"}},"pageContext":{"id":"bd1d27a0-2d19-5b40-8379-7819f65794ca"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

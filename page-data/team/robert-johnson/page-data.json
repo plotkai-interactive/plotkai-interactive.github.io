@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-team-js",
-    "path": "/team/robert-johnson/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":""},"fields":{"slug":"/team/robert-johnson/"},"html":"<!-- ---\ntitle: 'Robert Johnson'\ndate: 2018-12-20T13:44:23+10:00\ndraft: false\nimage: '/images/team/vince-fleming-613817-unsplash.jpg'\njobtitle: 'Developer'\nweight: 3\n---\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in. -->"}},"pageContext":{"id":"29845c6b-65cb-53c4-ba08-9c4ccd62f759"}},
-    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

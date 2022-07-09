@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-team-js",
-    "path": "/team/utkarsh-dev/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Utkarsh Dev Chaudhary"},"fields":{"slug":"/team/utkarsh-dev/"},"html":"<p>A tech enthussiast and cutious soul who like building open source tools and cloud native software solutions.</p>"}},"pageContext":{"id":"855b3ef2-2c52-506a-83b4-1f2a7ec5561a"}},
-    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

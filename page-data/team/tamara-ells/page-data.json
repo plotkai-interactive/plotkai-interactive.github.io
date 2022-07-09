@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-team-js",
-    "path": "/team/tamara-ells/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":""},"fields":{"slug":"/team/tamara-ells/"},"html":"<!-- ---\ntitle: 'Tamara Ells'\ndate: 2018-12-20T13:44:55+10:00\ndraft: false\nimage: '/images/team/michael-dam-258165-unsplash.jpg'\njobtitle: 'UI Designer'\nweight: 4\n---\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in. -->"}},"pageContext":{"id":"58cac2db-24a2-5aee-a172-5799cd02f198"}},
-    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

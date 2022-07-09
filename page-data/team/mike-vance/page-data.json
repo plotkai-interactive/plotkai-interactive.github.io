@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-team-js",
-    "path": "/team/mike-vance/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":""},"fields":{"slug":"/team/mike-vance/"},"html":"<!-- ---\ntitle: 'Mike Vance'\ndate: 2018-12-20T13:44:30+10:00\ndraft: false\nimage: '/images/team/joseph-gonzalez-399972-unsplash.jpg'\njobtitle: 'Art Director'\nweight: 3\n---\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in. -->"}},"pageContext":{"id":"eed82c77-3ddc-5b6a-8b23-9b3d1f716918"}},
-    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

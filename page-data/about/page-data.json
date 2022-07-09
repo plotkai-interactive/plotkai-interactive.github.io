@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-basic-js",
-    "path": "/about",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"About","path":"/about"},"fields":{"slug":"/basic/about/"},"html":"<p>An Open Source Development Initative.</p>\n<h2>Thought Process</h2>\n<p>We believe in delvoping free and open source software that is native to cloud and help back to community.</p>"}},"pageContext":{"id":"0ebb303a-6e35-5860-a884-edeec83a92ee"}},
-    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

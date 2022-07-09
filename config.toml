@@ -16,7 +16,7 @@ paginate = 3
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@plotkai"
+  twitter_handle = ""
 
   showAuthorOnHomepage = false
   showAuthorOnPosts = false

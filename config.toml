@@ -1,4 +1,4 @@
-baseURL = "plotkai.in"
+baseURL = "/"
 languageCode = "en-us"
 title = "Plotkai Interactive"
 themesDir = "themes"

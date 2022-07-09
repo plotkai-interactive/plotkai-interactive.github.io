@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Plotkai Interactive</title>
+    <link>plotkai.in/pages/</link>
+    <description>Recent content in Pages on Plotkai Interactive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="plotkai.in/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>plotkai.in/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>plotkai.in/pages/about/</guid>
+      <description>Lets make it happen. When you want to give back to society, you put yourself out there and help. Your efforts may be small and unseen but they all make a difference only if we collaborate and make it together. Plotkai is here to work on Open Source Projetcs to give back to the developer society.</description>
+    </item>
+    
+  </channel>
+</rss>

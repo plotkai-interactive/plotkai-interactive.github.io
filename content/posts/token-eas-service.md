@@ -1,11 +1,16 @@
 ---
-title: Token EAS Service
-date: 2018-10-30
-description: 'Token Edge Authentication Service'
+title: Edge Authentication
+date: 2022-06-30
+description: 'Edge Authentication Service'
 image: images/cctv.jpeg
 ---
 
-## What is Token EAS ?
-It is a java based project that provides Edge Authentication and also provisions tokens.
+## What is Edge Authentication Service?
+It is a java based container service that provides Edge Authentication capabilities to any Microservice Architecure using Single Factor Authentication.
+It can generate time bound JWT tokens and also provide the JWKS KeySet over the URI for validation.
+
+The service is completely written in Java using Springboot. If you think you are the Java and FOSS enthusiast, feel free to fork and add features.
+
+[Get started!](https://github.com/plotkai-interactive/edge-auth)
 
 

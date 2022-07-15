@@ -2,7 +2,6 @@
 title: Edge Authentication
 date: 2022-06-30
 description: 'Edge Authentication Service'
-image: images/cctv.jpeg
 ---
 
 ## What is Edge Authentication Service?

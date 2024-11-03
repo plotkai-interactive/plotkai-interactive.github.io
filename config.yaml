@@ -1,0 +1,89 @@
+baseURL: "https://www.plotkai.in/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Plotkai Interactive"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Plotkai Interactive"
+  description: "let's make it happen"
+  images: 
+    - "images/hero-image.png"
+
+  logo: ""
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+    linkedin: "#"
+
+  location:
+    - "Whitefield, Bangalore, Karnataka, India 560048"
+    - "Lucknow, Uttar Pradesh, India 226022"
+
+  contact:
+    - "devutkarsh@gmail.com"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    # - name: "How we work"
+    #   url: "/#"
+    #   weight: 2
+
+    - name: "About Us"
+      url: "/about"
+      weight: 3
+
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
+
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
+
+  buttons:
+    - name: "Book a call"
+      url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    # - name: "How we work"
+    #   url: "/#"
+    #   weight: 2
+
+    - name: "About Us"
+      url: "/about"
+      weight: 3
+
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
+
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"

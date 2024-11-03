@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our main services"
+  text: ""
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Mobile App Development"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"
+
+    - image: "images/services-web-development.png"
+      title: "Ecommerce & Web Services"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"
+
+    - image: "images/services-web-development.png"
+      title: "Branding & Marketing Services"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"

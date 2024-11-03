@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "**Level Up** your business"
+  text: "Unlock your business potential with software technologies and targeted marketing strategies that enhance visibility, drive engagement, and boost conversions."
+
+  buttonPrimary:
+    label: "Let's talk"
+    url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"
+
+  # buttonSecondary:
+  #   label: "Let's talk"
+  #   url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"
+

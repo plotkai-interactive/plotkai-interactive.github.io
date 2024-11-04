@@ -22,11 +22,11 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
-    linkedin: "#"
+    dribbble: "https://plotkai.in"
+    instagram: "https://www.instagram.com/plotkai"
+    facebook: "https://www.facebook.com/plotkai.in"
+    # twitter: "#"
+    linkedin: "https://www.linkedin.com/company/plotkai-interactive/"
 
   location:
     - "Whitefield, Bangalore, Karnataka, India 560048"

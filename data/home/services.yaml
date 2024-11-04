@@ -7,21 +7,21 @@ content:
   cards:
     - image: "images/services-web-development.png"
       title: "Mobile App Development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "Plotkai Interactive develops custom mobile applications that provide intuitive user experiences. Our expert team collaborates with you to create engaging, functional apps optimized for both iOS and Android, driving your business forward in the mobile-first landscape."
       button:
         label: "Learn more"
         url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"
 
     - image: "images/services-web-development.png"
       title: "Ecommerce & Web Services"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "we provide comprehensive eCommerce and web services designed to enhance your online presence. Our solutions include custom eCommerce platform development, user-friendly website design, and secure payment integration, ensuring seamless shopping experiences for your customers. With a focus on performance and scalability, we empower businesses to thrive in the digital marketplace."
       button:
         label: "Learn more"
         url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"
 
     - image: "images/services-web-development.png"
       title: "Branding & Marketing Services"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "we specialize in marketing and building brands that resonate. Our approach combines strategic branding, creative content, and targeted marketing campaigns to elevate your business’s visibility and engagement. We work closely with you to define your brand identity, connect with your audience, and cultivate lasting relationships, ensuring that your brand stands out in today’s competitive landscape."
       button:
         label: "Learn more"
         url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"

@@ -6,7 +6,7 @@ content:
   text: ""
   cards:
     - image: "images/services-web-development.png"
-      title: "Mobile App Development"
+      title: "Mobile Application Development"
       text: "Plotkai Interactive develops custom mobile applications that provide intuitive user experiences. Our expert team collaborates with you to create engaging, functional apps optimized for both iOS and Android, driving your business forward in the mobile-first landscape with seamless payments and security integrations."
       button:
         label: "Learn more"

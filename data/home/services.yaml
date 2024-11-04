@@ -7,7 +7,7 @@ content:
   cards:
     - image: "images/services-web-development.png"
       title: "Mobile Application Development"
-      text: "Plotkai Interactive develops custom mobile applications that provide intuitive user experiences. Our expert team collaborates with you to create engaging, functional apps optimized for both iOS and Android, driving your business forward in the mobile-first landscape with seamless payments and security integrations."
+      text: "Plotkai Interactive develops custom mobile applications that provide intuitive user experiences. Our expert team collaborates with you to create engaging, functional apps optimized for both iOS and Android, driving your business forward in the mobile-first landscape and user-experience."
       button:
         label: "Learn more"
         url: "https://api.whatsapp.com/send/?phone=919663310126&text&type=phone_number&app_absent=0"
